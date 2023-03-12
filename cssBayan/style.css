@@ -41,7 +41,7 @@ input {
 
 .tab {
   width: 100%;
-  color: white;
+  color: rgb(241, 221, 221);
   overflow: hidden;
 }
 .tab:hover {
