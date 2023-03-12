@@ -41,7 +41,7 @@ input {
 
 .tab {
   width: 100%;
-  color: white;
+  color: rgb(241, 221, 221);
   overflow: hidden;
 }
 .tab:hover {
@@ -70,7 +70,7 @@ input {
   max-height: 0;
   padding: 0 1em;
   color: #2c3e50;
-  background: white;
+  background: rgb(238, 226, 226);
   transition: all 0.35s;
 }
 .tab-close {
